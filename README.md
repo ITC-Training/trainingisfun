@@ -1,3 +1,5 @@
 # trainingisfun
 
-Project for collaboration 
+Project for collaboration
+
+Team members Tina & Eli 
