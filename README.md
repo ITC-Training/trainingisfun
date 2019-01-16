@@ -1,1 +1,3 @@
 # trainingisfun
+
+Project for collaboration 
